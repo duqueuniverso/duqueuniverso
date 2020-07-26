@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**duquedotdev/duquedotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### About me
 
@@ -13,7 +11,7 @@
 - 🤖 I love creating bots, and learning new technologies. I also love blockchain techlonogies
 - 🎮 I love to play games as League of Legends (add me: Aviatör) and PS4 (add me: duqueskywalker)
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
--->
+
 
 
 
