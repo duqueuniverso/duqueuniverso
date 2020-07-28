@@ -8,7 +8,7 @@
 - 💚 I’m currently learning javascript front end technologies,  Machine Learning,  Deep Learning and Neural Networks technologies
 - 👯 I’m looking to collaborate on Dumont and Aerochain
 - 💬 Ask me about aviation softwares and blockchain
-- 🤖 I love creating bots, and learning new technologies. I also love blockchain techlonogies
+- 🤖 I love creating bots, and learning new technologies. I also love blockchain technologies
 - 🎮 I love to play games as League of Legends (add me: Aviatör) and PS4 (add me: duqueskywalker)
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
