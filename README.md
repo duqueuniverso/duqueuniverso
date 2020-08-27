@@ -24,3 +24,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&logo=Telegram&logoColor=white&link=https://telegram.org/)](https://t.me/duquedotdev)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Aerobat](https://media.giphy.com/media/TcDab1G3qOhW0/giphy.gif)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duquedotdev&show_icons=true)
