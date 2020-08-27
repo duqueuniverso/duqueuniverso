@@ -12,7 +12,7 @@
 - 🎮 I love to play games as League of Legends (add me: Aviatör) and PS4 (add me: duqueskywalker)
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duquedotdev&show_icons=true&theme=radical&count_private=true)
 
 
 ### 📬 My social networks and other ways to contact me
@@ -25,4 +25,4 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Aerobat](https://media.giphy.com/media/TcDab1G3qOhW0/giphy.gif)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duquedotdev&show_icons=true)
+
