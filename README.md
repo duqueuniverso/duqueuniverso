@@ -23,8 +23,5 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Aerobat](https://media.giphy.com/media/TcDab1G3qOhW0/giphy.gif)
 
-### 📈 Some stats about me
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duquedotdev&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
