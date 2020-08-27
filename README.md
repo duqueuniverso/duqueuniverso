@@ -12,6 +12,8 @@
 - 🎮 I love to play games as League of Legends (add me: Aviatör) and PS4 (add me: duqueskywalker)
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
+### 📈 Some stats about me
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duquedotdev&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
