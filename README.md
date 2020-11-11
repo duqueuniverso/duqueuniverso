@@ -4,12 +4,12 @@
 ### About me
 
 - 📚 I'm a analysis and systems development student at Faculdade Oswaldo Cruz (2021)
-- 🔭 I’m currently working on Cognizant as a Tester of Machine Learning and Big Data Technologies
-- 💚 I’m currently learning javascript front end technologies,  Machine Learning,  Deep Learning and Neural Networks technologies
-- 👯 I’m looking to collaborate on Dumont and Aerochain
-- 💬 Ask me about aviation softwares and blockchain
-- 🤖 I love creating bots, and learning new technologies. I also love blockchain technologies
-- 🎮 I love to play games as League of Legends (add me: Aviatör) and PS4 (add me: duqueskywalker)
+- 🔭 I already worked as a Tester of Machine Learning and Big Data Technologies. Currently workin at everis as Tester.
+- 💚 I’m currently learning Typescrit and other backend technologies, Data Engineering, Machine Learning & Deep Learning Engineering and Neural Networks technologies
+- 👯 I’m looking to collaborate on Dumont and Aerochain. Also participate as founder from a MMORPG Minecraft Server.
+- 💬 Ask me about blockchain, backend technologies, Data Engineering, Machine Learning & Deep Learning Engineering and Neural Networks
+- 🤖 I love creating bots, and learning new technologies.
+- 🎮 I love to play games as League of Legends (add me: Aviatör), WoW(add me: Equam), Minecraft and some others in PS4 (add me: duqueskywalker)
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
 
