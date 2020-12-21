@@ -3,7 +3,7 @@
 
 ### About me
 
-- 📚 I'm a analysis and systems development student at Faculdade Oswaldo Cruz (2021)
+- 📚 I'm a analysis and systems development student at Universidade Anhembi Morumbi (2021)
 - 🔭 I already worked as a Tester of Machine Learning and Big Data Technologies. Currently workin at everis as Tester.
 - 💚 I’m currently learning Typescrit and other backend technologies, Data Engineering, Machine Learning & Deep Learning Engineering and Neural Networks technologies
 - 👯 I’m looking to collaborate on Dumont and Aerochain. Also participate as founder from a MMORPG Minecraft Server.
