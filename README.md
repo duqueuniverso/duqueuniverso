@@ -4,12 +4,12 @@
 ### About me
 
 - 📚 I'm a analysis and systems development student at Faculdades Oswaldo Cruz (2020)
-- 🔭 I already worked as a Tester of Machine Learning and Big Data Technologies. Currently workin at everis as Tester.
-- 💚 I’m currently learning Typescrit and other backend technologies, Data Engineering, Machine Learning & Deep Learning Engineering and Neural Networks technologies
-- 👯 I’m looking to collaborate on Dumont and Aerochain. Also participate as founder from a MMORPG Minecraft Server.
-- 💬 Ask me about blockchain, backend technologies, Data Engineering, Machine Learning & Deep Learning Engineering and Neural Networks
-- 🤖 I love creating bots, and learning new technologies.
-- 🎮 I love to play games as League of Legends (add me: Aviatör), WoW(add me: Equam), Minecraft and some others in PS4 (add me: duqueskywalker)
+- 🔭 I already worked as a Tester of Machine Learning and Big Data Technologies. Currently workin at everis Brazil as QA Engineer.
+- 💚 I’m currently learning React and others frontend technologies.
+- 👯 I’m looking to collaborate on a open-source test case manager for small teams at big companies.
+- 💬 Ask me about blockchain, backend technologies, Machine Learning & Deep Learning Engineering and Neural Networks
+- 🤖 I love creating beautiful websites, and learning new technologies.
+- 🎮 I love to play games as League of Legends (add me: Tiuka), WoW(add me: Tiuka), Minecraft and some others in PS4 (add me: duqueskywalker)
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
 
