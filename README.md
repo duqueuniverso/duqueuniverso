@@ -5,7 +5,7 @@
 
 - 📚 I'm a analysis and systems development student at São Judas Tadeu University (2020 - 2022)
 - 🔭 I already worked as a Tester of Machine Learning and Big Data Technologies. Currently workin as QA Engineer at PagSeguro (UOL). 
-- 💚 I’m currently learning React and others frontend technologies.
+- 💚 I’m currently learning React Native and Computer Vision (ML/AI) technologies.
 - 👯 I’m looking to collaborate on a open-source test case manager for small teams at big companies.
 - 💬 Ask me about blockchain, backend technologies, Machine Learning & Deep Learning Engineering and Neural Networks
 - 🤖 I love creating beautiful websites, and learning new technologies.
