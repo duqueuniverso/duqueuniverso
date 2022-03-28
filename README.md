@@ -4,12 +4,12 @@
 ### About me
 
 - 📚 I'm a analysis and systems development student at São Judas Tadeu University (2020 - 2022)
-- 🔭 I already worked as a Tester of Machine Learning and Big Data Technologies. Currently workin as QA Engineer at PagSeguro (UOL). 
-- 💚 I’m currently learning React Native and Computer Vision (ML/AI) technologies.
-- 👯 I’m looking to collaborate on a open-source test case manager for small teams at big companies.
+- 🔭 I already worked as a QA Engineer of Machine Learning and Big Data Technologies. Currently workin as QA Engineer at PagSeguro (UOL). 
+- 💚 I’m currently learning advanced Typescript, gRPC, and ML/AI technologies.
+- 👯 I’m looking to collaborate on a [open-source cryptocurrencies project](https://github.com/aphelium-brazil) that organizes all crypto data to empower people.
 - 💬 Ask me about blockchain, backend technologies, Machine Learning & Deep Learning Engineering and Neural Networks
-- 🤖 I love creating beautiful websites, and learning new technologies.
-- 🎮 I love to play games as League of Legends (add me: Tiuka), WoW(add me: Tiuka), Minecraft and some others in PS4 (add me: duqueskywalker)
+- 🤖 I love creating beautiful software, and learning new technologies.
+- 🎮 I love to play games such as League of Legends (add me: Tiuka), WoW(add me: Tiuka), Minecraft and some others in PS4 (add me: duqueskywalker)
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
 
