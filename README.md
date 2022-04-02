@@ -13,6 +13,9 @@
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
 
+[![card](https://github-readme-stats.vercel.app/api?username=duquedotdev&theme=default)](https://github.com/duquedotdev/)
+
+
 ### 📬 My social networks and other ways to contact me
 [![GitHub followers](https://img.shields.io/github/followers/duquedotdev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/duquedotdev?tab=followers)
 [![Twitter followers](https://img.shields.io/twitter/follow/duquedotdev.svg?style=social&label=Follow)](https://twitter.com/duquedotdev)
