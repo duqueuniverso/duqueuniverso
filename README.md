@@ -13,7 +13,8 @@
 - ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=duquedotdev&theme=dracula)](https://github.com/duquedotdev/)
+[![card](https://github-readme-stats.vercel.app/api?username=duquedotdev&theme=merko)](https://github.com/duquedotdev/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=duquedotdev&hide=html&layout=compact&theme=merko)](https://github.com/duquedotdev/)
 
 
 ### 📬 My social networks and other ways to contact me
