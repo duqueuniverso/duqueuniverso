@@ -4,8 +4,8 @@
 ### About me
 
 - 📚 I'm a analysis and systems development student at São Judas Tadeu University (2020 - 2022)
-- 🔭 I already worked as a QA Engineer of Machine Learning and Big Data Technologies. Currently workin as QA Engineer at PagSeguro (UOL). 
-- 💚 I’m currently learning advanced Typescript, gRPC, and ML/AI technologies.
+- 🔭 I already worked as a QA Engineer of Machine Learning and Big Data Technologies. Currently workin as Software Engineer at PagSeguro (UOL). 
+- 💚 I’m currently learning advanced Kotlin, gRPC, and ML/AI technologies.
 - 👯 I’m the founder of a [open-source cryptocurrencies project](https://github.com/aphelium-brazil) that organizes all crypto data to empower people.
 - 💬 Ask me about blockchain, backend technologies, Machine Learning & Deep Learning Engineering and Neural Networks
 - 🤖 I love creating beautiful software, and learning new technologies.
