@@ -3,10 +3,10 @@
 
 ### About me
 
+- 👯 I’m the founder of a [social network for investors](https://github.com/nukerapp).
 - 📚 I'm a analysis and systems development student at São Judas Tadeu University (2020 - 2023)
-- 🔭 I already worked as a QA Engineer of Machine Learning and Big Data Technologies. Currently working as Software Engineer. 
+- 🔭 I already worked as a QA Engineer of Machine Learning and Big Data Technologies. Currently working as Software Engineer for a security team in a brazilian bank. 
 - 💚 I’m currently learning advanced Golang, Kotlin, gRPC, and ML/AI technologies.
-- 👯 I’m the founder of a [open-source project](https://github.com/aerodata-brazil).
 - 💬 Ask me about blockchain, backend technologies, Machine Learning & Deep Learning Engineering and Neural Networks
 - 🤖 I love creating beautiful software, and learning new technologies.
 - 🎮 I love to play games such as League of Legends (add me: Tiuka) and WoW(add me: Tiuka).
