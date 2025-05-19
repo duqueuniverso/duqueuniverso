@@ -1,16 +1,5 @@
 <!-- PROFILE HEADER -->
 
-<p align="center">
-  <a href="https://github.com/duquedotdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=duquedotdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquedotdev&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/duquedotdev/count.svg)
-</p>
 
 # 🐇 Down the Rabbit Hole: Hi there, I’m Felipe! 👋
 
