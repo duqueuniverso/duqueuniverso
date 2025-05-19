@@ -20,11 +20,11 @@
 
 ## 🔍 About Me
 
-* 👑 **Founder & Architect** of [Foxety](https://github.com/nukerapp): a social network for investors.
+* 👑 **Founder & Architect** of [Foxety](https://github.com/foxetyapp): a social network for investors.
 * 🎓 **Analysis & Systems Development** student at Universidade São Judas Tadeu (2020–2023).
 * 🛡️ **Software Engineer** at a Brazilian bank’s security team; former QA Engineer in ML & Big Data.
-* 📚 **Currently learning**: Advanced Golang, Kotlin, gRPC, Machine Learning & AI.
-* 💬 **Ask me about**: Blockchain, Backend technologies, Neural Networks, Deep Learning Engineering.
+* 📚 **Currently learning**: NodeJs, ReactJs, React Native, Machine Learning & AI.
+* 💬 **Ask me about**: Site Reliability Engineering & Software Engineering.
 * 🤖 **I love**: crafting beautiful software and embracing new technologies.
 
 ---
@@ -34,8 +34,8 @@
 <details>
 <summary>Click to expand</summary>
 
-* **Languages:** Go, Kotlin, Java, Python, SQL
-* **Frameworks & Tools:** gRPC, Docker, Kubernetes, Terraform, Keycloak
+* **Languages:** Go, Kotlin, Java, Python, Typescript 
+* **Frameworks & Tools:** Docker, Kubernetes, Terraform, Keycloak
 * **AI/ML:** TensorFlow, PyTorch, scikit-learn, MLflow
 * **DevOps & Security:** AWS, Jenkins, GitHub Actions, SonarQube
 * **Databases:** PostgreSQL, MongoDB, Redis
@@ -46,7 +46,7 @@
 
 ## 🚀 Projects & Adventures
 
-* 🔗 [nukerapp](https://github.com/nukerapp) — Magical social network for investors. ![Stars](https://img.shields.io/github/stars/nukerapp.svg?style=social)
+* 🔗 [foxetyapp](https://github.com/foxetyapp) — Magical social network for investors. ![Stars](https://img.shields.io/github/stars/foxetyapp.svg?style=social)
 * 🧪 **Open for collaborations**: my code is an open door—feel free to submit PRs or issues!
 
 ---
