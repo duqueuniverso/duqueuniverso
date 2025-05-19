@@ -1,29 +1,105 @@
-### Hi there 👋
+<!-- PROFILE HEADER -->
 
+<p align="center">
+  <a href="https://github.com/duquedotdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=duquedotdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquedotdev&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/duquedotdev/count.svg)
+</p>
 
-### About me
+# 🐇 Down the Rabbit Hole: Hi there, I’m Felipe! 👋
 
-- 👯 I’m the founder of a [social network for investors](https://github.com/nukerapp).
-- 📚 I'm a analysis and systems development student at São Judas Tadeu University (2020 - 2023)
-- 🔭 I already worked as a QA Engineer of Machine Learning and Big Data Technologies. Currently working as Software Engineer for a security team in a brazilian bank. 
-- 💚 I’m currently learning advanced Golang, Kotlin, gRPC, and ML/AI technologies.
-- 💬 Ask me about blockchain, backend technologies, Machine Learning & Deep Learning Engineering and Neural Networks
-- 🤖 I love creating beautiful software, and learning new technologies.
-- 🎮 I love to play games such as League of Legends (add me: Tiuka) and WoW(add me: Tiuka).
-- ⚡ Fun fact: 🛩️ I'm an aerobatic pilot just for fun
+> Welcome to my Wonderland of code, where functions flutter like butterflies and every bug is a curious creature waiting to be tamed.
 
+---
 
+## 📖 Table of Contents
 
+* [About Me](#about-me)
+* [🛠️ Skills & Tools](#️skills--tools)
+* [🚀 Projects & Adventures](#projects--adventures)
+* [🎮 Games & Fun](#games--fun)
+* [✈️ Aerobatics](#️-aerobatics)
+* [📬 Connect with Me](#connect-with-me)
 
-### 📬 My social networks and other ways to contact me
-[![GitHub followers](https://img.shields.io/github/followers/duquedotdev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/duquedotdev?tab=followers)
-[![Twitter followers](https://img.shields.io/twitter/follow/duquedotdev.svg?style=social&label=Follow)](https://twitter.com/duquedotdev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duquedotdev/)](https://www.linkedin.com/in/duquedotdev/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/duquedotdev/)](https://www.instagram.com/duquedotdev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe@duque.dev)](mailto:felipe@duque.dev)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&logo=Telegram&logoColor=white&link=https://telegram.org/)](https://t.me/duquedotdev)
+---
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Aerobat](https://media.giphy.com/media/TcDab1G3qOhW0/giphy.gif)
+## 🔍 About Me
 
+* 👑 **Founder & Architect** of [Foxety](https://github.com/nukerapp): a social network for investors.
+* 🎓 **Analysis & Systems Development** student at Universidade São Judas Tadeu (2020–2023).
+* 🛡️ **Software Engineer** at a Brazilian bank’s security team; former QA Engineer in ML & Big Data.
+* 📚 **Currently learning**: Advanced Golang, Kotlin, gRPC, Machine Learning & AI.
+* 💬 **Ask me about**: Blockchain, Backend technologies, Neural Networks, Deep Learning Engineering.
+* 🤖 **I love**: crafting beautiful software and embracing new technologies.
 
+---
 
+## 🛠️ Skills & Tools
+
+<details>
+<summary>Click to expand</summary>
+
+* **Languages:** Go, Kotlin, Java, Python, SQL
+* **Frameworks & Tools:** gRPC, Docker, Kubernetes, Terraform, Keycloak
+* **AI/ML:** TensorFlow, PyTorch, scikit-learn, MLflow
+* **DevOps & Security:** AWS, Jenkins, GitHub Actions, SonarQube
+* **Databases:** PostgreSQL, MongoDB, Redis
+
+</details>
+
+---
+
+## 🚀 Projects & Adventures
+
+* 🔗 [nukerapp](https://github.com/nukerapp) — Magical social network for investors. ![Stars](https://img.shields.io/github/stars/nukerapp.svg?style=social)
+* 🧪 **Open for collaborations**: my code is an open door—feel free to submit PRs or issues!
+
+---
+
+## 🎮 Games & Fun
+
+* **League of Legends:** Summoner (add me: **Tiuka**)
+* **World of Warcraft:** Heroic quests (add me: **Tiuka**)
+
+---
+
+## ✈️ Aerobatics
+
+![Aerobat](https://media.giphy.com/media/TcDab1G3qOhW0/giphy.gif)
+
+Just looping through clouds for fun! ☁️
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/duquedotdev?tab=followers">
+    <img src="https://img.shields.io/github/followers/duquedotdev.svg?style=social&label=Follow" alt="Follow on GitHub" />
+  </a>
+  <a href="https://twitter.com/duquedotdev">
+    <img src="https://img.shields.io/twitter/follow/duquedotdev.svg?style=social&label=Follow" alt="Follow on Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/duquedotdev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/duquedotdev/">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:felipe@duque.dev">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail" alt="Email" />
+  </a>
+  <a href="https://t.me/duquedotdev">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+> “We’re all mad here”—so let’s make magic together! 🦄
