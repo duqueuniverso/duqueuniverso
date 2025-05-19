@@ -70,22 +70,16 @@ Just looping through clouds for fun! ☁️
 
 <p align="center">
   <a href="https://github.com/duquedotdev?tab=followers">
-    <img src="https://img.shields.io/github/followers/duquedotdev.svg?style=social&label=Follow" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/github/followers/duqueuniverso.svg?style=social&label=Follow" alt="Follow on GitHub" />
   </a>
   <a href="https://twitter.com/duquedotdev">
-    <img src="https://img.shields.io/twitter/follow/duquedotdev.svg?style=social&label=Follow" alt="Follow on Twitter" />
+    <img src="https://img.shields.io/twitter/follow/duqueuniverso.svg?style=social&label=Follow" alt="Follow on Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/duquedotdev/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/duquedotdev/">
+  <a href="https://www.instagram.com/duqueuniverso/">
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="mailto:felipe@duque.dev">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail" alt="Email" />
-  </a>
-  <a href="https://t.me/duquedotdev">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram" alt="Telegram" />
   </a>
 </p>
 
