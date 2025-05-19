@@ -69,10 +69,10 @@ Just looping through clouds for fun! ☁️
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/duquedotdev?tab=followers">
+  <a href="https://github.com/duqueuniverso?tab=followers">
     <img src="https://img.shields.io/github/followers/duqueuniverso.svg?style=social&label=Follow" alt="Follow on GitHub" />
   </a>
-  <a href="https://twitter.com/duquedotdev">
+  <a href="https://twitter.com/duqueuniverso">
     <img src="https://img.shields.io/twitter/follow/duqueuniverso.svg?style=social&label=Follow" alt="Follow on Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/duquedotdev/">
